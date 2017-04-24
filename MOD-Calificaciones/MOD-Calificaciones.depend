@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490799729 source:c:\users\rafa\desktop\esi\mp\marcelo 2017\mod-calificaciones\main de prueba.c
+	<stdio.h>
+	<stdlib.h>
+	"MOD-Calificaciones.h"
+
+1490798426 c:\users\rafa\desktop\esi\mp\marcelo 2017\mod-calificaciones\mod-calificaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492619038 source:c:\users\rafa\desktop\esi\mp\marcelo 2017\mod-calificaciones\mod-calificaciones.c
+	"MOD-Calificaciones.h"
+
